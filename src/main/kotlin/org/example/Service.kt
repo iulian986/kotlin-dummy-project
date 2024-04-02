@@ -1,4 +1,4 @@
-package org.example.com.example
+package org.example
 
 class Service {
     fun isEven(input: Int): Boolean {

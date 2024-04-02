@@ -1,4 +1,4 @@
-package org.example.com.example
+package org.example
 
 class Client(private val service: Service) {
     fun greeting(name: String?): String {
